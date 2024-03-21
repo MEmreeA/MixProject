@@ -1,0 +1,39 @@
+{
+  "data": {
+    "weather": [
+      {
+        "city": "Ankara",
+        "temperature": "16^",
+        "weatherCondition": "https://media.istockphoto.com/id/1368722560/tr/vekt%C3%B6r/drawing-cute-sun-cartoon-vector-illustration-in-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=gqTa0zwzJ1vX5FRRnXW7ASTjANa3HBCmtnv0xJKHnoI="
+      }, {
+        "city": "İstanbul",
+        "temperature": "15^",
+        "weatherCondition": "https://w7.pngwing.com/pngs/762/137/png-transparent-cloud-drawing-cloudy-weather-blue-label-heart.png"
+      }, {
+        "city": "İzmir",
+        "temperature": "18^",
+        "weatherCondition": "https://w7.pngwing.com/pngs/762/137/png-transparent-cloud-drawing-cloudy-weather-blue-label-heart.png"
+      }, {
+        "city": "Antalya",
+        "temperature": "15^",
+        "weatherCondition": "https://media.istockphoto.com/id/1368722560/tr/vekt%C3%B6r/drawing-cute-sun-cartoon-vector-illustration-in-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=gqTa0zwzJ1vX5FRRnXW7ASTjANa3HBCmtnv0xJKHnoI="
+      }, {
+        "city": "Trabzon",
+        "temperature": "14^",
+        "weatherCondition": "https://media.istockphoto.com/id/1368722560/tr/vekt%C3%B6r/drawing-cute-sun-cartoon-vector-illustration-in-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=gqTa0zwzJ1vX5FRRnXW7ASTjANa3HBCmtnv0xJKHnoI="
+      }, {
+        "city": "Erzurum",
+        "temperature": "13^",
+        "weatherCondition": "https://w7.pngwing.com/pngs/762/137/png-transparent-cloud-drawing-cloudy-weather-blue-label-heart.png"
+      }, {
+        "city": "Gaziantep",
+        "temperature": "19^",
+        "weatherCondition": "https://media.istockphoto.com/id/1368722560/tr/vekt%C3%B6r/drawing-cute-sun-cartoon-vector-illustration-in-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=gqTa0zwzJ1vX5FRRnXW7ASTjANa3HBCmtnv0xJKHnoI="
+      }, {
+        "city": "Aydın",
+        "temperature": "20^",
+        "weatherCondition": "https://media.istockphoto.com/id/1368722560/tr/vekt%C3%B6r/drawing-cute-sun-cartoon-vector-illustration-in-white-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=gqTa0zwzJ1vX5FRRnXW7ASTjANa3HBCmtnv0xJKHnoI="
+      }
+    ]
+  }
+}
